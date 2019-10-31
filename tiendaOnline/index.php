@@ -29,6 +29,7 @@ if(!isset($p)){
     <div class="header">PearStore</div>
         <div class="menu">
             <!--<a href="?p=principal">Principal</a> -->
+            <a href="?p=contacto">Contacto</a>
             <a href="?p=productos">Productos</a>
             <a href="?p=carrito">Carrito</a>
 
