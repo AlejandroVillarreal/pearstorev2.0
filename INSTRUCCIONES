@@ -1,0 +1,22 @@
+Proyecto LIHC PearStore
+Software Necesario: 
+1. XAMPP URL: https://www.apachefriends.org/es/download_success.html
+2. Navegador ejemplo: Chrome.
+3. RECOMENDADO. Un editor de código
+  VisualStudio Code El que yo uso URL: https://code.visualstudio.com/Download
+  Sublime Text 3, es mas ligero URL: https://www.sublimetext.com/3
+
+Instrucciones de Descarga:
+1. Descargar repositorio completo
+2. Una vez descargado:
+  1. Abrir la carpeta de XAMPP
+  2. Localizar carpeta htdocs
+  3. Agregar el archivo ahi
+3. Para agregar la base de datos
+  1. Abrir el navegador
+  2. teclear http://localhost/phpmyadmin/
+  3. Crear nueva base de datos con el nombre "tienda"
+  4. Ubicar pestaña de "importar"
+  5. Seleccionar el archivo llamado tienda.sql
+  6. Click en continuar
+4. Ejecutar la pagina con http://localhost/tiendaonline/
